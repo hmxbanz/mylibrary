@@ -1,4 +1,8 @@
 package cn.test.mylibrary;
 
-class Test {
+public class Test {
+    public static String getTestName()
+    {
+        return "library TEST form HMX";
+    }
 }
